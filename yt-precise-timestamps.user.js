@@ -6,6 +6,9 @@
 // @author       Kori
 // @match        https://www.youtube.com/*
 // @match        https://youtube.com/*
+// @homepageURL  https://github.com/Kori-ts/yt-precise-timestamps
+// @downloadURL  https://raw.githubusercontent.com/Kori-ts/yt-precise-timestamps/main/yt-precise-timestamps.user.js
+// @updateURL    https://raw.githubusercontent.com/Kori-ts/yt-precise-timestamps/main/yt-precise-timestamps.user.js
 // @grant        none
 // ==/UserScript==
 
